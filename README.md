@@ -1,16 +1,5 @@
-# untitled
+Приложение обращается к API - https://dog.ceo и возвращает случайные фото собак. 
+![image](https://github.com/user-attachments/assets/430c7d09-80f2-43aa-91ac-ea489a15b17f)
+![image](https://github.com/user-attachments/assets/b0593507-9e0c-4b6c-9aa9-c276bbd1bd1c)
+![image](https://github.com/user-attachments/assets/13dba9af-eaf8-420a-8d70-9f73435d904b)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
